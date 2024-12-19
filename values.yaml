@@ -1051,13 +1051,13 @@ mongodb:
     # Stackstorm user that services will make connections using
     username: "st2-admin"
     # Stackstorm user that services will make connections using
-    password: ""
+    password: "xxxxxxxxxxxxxxxxxxx"
     # Root password for the database
-    rootPassword: ""
+    rootPassword: "xxxxxxxxxxxxxxxxx"
     # Initial database for stackstorm
     database: "st2"
     # Minimal key length is 6 symbols and may only contain characters in the base64 set.
-    replicaSetKey: ""
+    replicaSetKey: "xxxxxxxxxxxxxxxxxxxxx"
     # Whether to enable the arbiter
   arbiter:
     enabled: false
