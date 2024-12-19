@@ -260,7 +260,7 @@ st2:
     #  user: st2admin
   # StackStorm Role Based Access Control settings (https://docs.stackstorm.com/rbac.html)
   rbac:
-    enabled: false
+    enabled: true
     # Custom StackStorm RBAC roles, shipped in '/opt/stackstorm/rbac/roles/'
     # See https://docs.stackstorm.com/rbac.html#defining-roles-and-permission-grants
     roles:
